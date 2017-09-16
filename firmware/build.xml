@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="uRADMonitor" default="default">
+<target name="default">
+<buildnumber 
+file="C:/PROJECTS/workspace3.2.1/eddSrv/eddSrv.build.number "/>
+</target>
+</project>
