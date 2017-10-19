@@ -11,3 +11,6 @@ https://hackaday.io/project/25669-flying-sniffer
 
 Prezi: 
 https://prezi.com/1xmkqgtovhgv/flying-sniffer/
+
+Demo video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Btk1EAwO4Cs/0.jpg)](https://www.youtube.com/watch?v=Btk1EAwO4Cs)
